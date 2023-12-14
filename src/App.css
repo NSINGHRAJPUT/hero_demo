@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+
+.visible {
+  display: block !important;
+}
+
+.hidden {
+  display: none !important;
+}
+
+iframe{
+  width: 100%;
+}
+
+.footer_section{
+  background: #2C2D5B;
+}
+
+.demo_btn{
+  background: #2C2D5B;
+  color: #fff;
+  border-radius: 5px;
+}
+
+a{
+  text-decoration: none !important;
+}
+
+.demo_color{
+  color: orangered;
+}
